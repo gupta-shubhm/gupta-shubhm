@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter: Iamsam_sg
 - 😄 Pronouns: We,Us
 - ⚡ Fun fact: I love playing FPS games and love to design dribble layouts 😃
--->
