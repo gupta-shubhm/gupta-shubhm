@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about kotlin, Material Lib, Corourtines, Model Evaluation Metrics 😉👍🏻
 - 📫 How to reach me: Twitter: [https://twitter.com/iamsam_sg](https://twitter.com/iamsam_sg)
-- 😄 Pronouns: We,Us
+- 😄 Pronouns: He,Him,His
 - ⚡ Fun fact: I love playing FPS games and love to design dribble layouts 😃
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gupta-shubhm&show_icons=true&theme=prussian)](https://github.com/gupta-shubhm/github-readme-stats)
