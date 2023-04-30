@@ -2,12 +2,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Kotlin, AWS and ML
-- 🌱 I’m currently learning KMM, Kubernetes and Docker
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Kubernetes
-- 💬 Ask me about kotlin, Material Lib, Corourtines, Model Evaluation Metrics 😉👍🏻
+- 🔭 I’m currently working on AWS, Databricks and General Software Development
+- 🌱 Frameworks I love to work on - Kubernetes, Docker, Microservices
+- ☁️ Cloud Platform I work on - AWS, Azure, GCP
+- 👯 I’m looking to collaborate on Youtube for my youtube channel - @ifystudio
+- 💬 Ask me about AWS, Cloud Services, Data Pipelines, ETL workflows 😉👍🏻
 - 📫 How to reach me: Twitter: [https://twitter.com/iamsam_sg](https://twitter.com/iamsam_sg)
+- 🀄️ Connect me on Instagram: [https://instagram.com/s__11_g](https://instagram.com/s__11_g)
 - 😄 Pronouns: He,Him
 - ⚡ Fun fact: I love playing FPS games and love to design dribble layouts 😃
 
